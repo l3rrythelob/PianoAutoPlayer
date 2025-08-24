@@ -1,4 +1,4 @@
-bpm = 170
+
 rest(1.5, bpm)
 keypress("o", x, bpm)
 rest(0.5, bpm)
