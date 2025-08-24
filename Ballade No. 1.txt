@@ -1,4 +1,4 @@
-bpm = 120
+bpm = 115
 rest(0.484, bpm)
 keypress("8", x, bpm)
 rest(0.047, bpm)
